@@ -3,9 +3,8 @@ body {
 }
 
 /* Hero Section */
-
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-image: url("../img/playa1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
